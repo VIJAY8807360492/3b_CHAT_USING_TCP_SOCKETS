@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+## NAME : HIRUTHIK SUDHAKAR
+## REGISTER NUMBER : 212223240054
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
